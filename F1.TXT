@@ -1,1 +1,3 @@
 new record entries in F1.txt
+adding new files in git 
+done code changes 
