@@ -3,3 +3,4 @@ adding new files in git
 done code changes 
 hello all new records added in file1 called F1.txt provided prior instruction to develop all 
 New new records inserted every 5 mins
+whenever the repository changes then immediately build happened or triggered by using Webhook trigger in Jenkins.
